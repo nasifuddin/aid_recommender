@@ -1,5 +1,3 @@
-Here is a well-structured `README.md` for your project:
-
 # AI/ML Model for Aid Recommendation
 
 ## 1. Project Overview
