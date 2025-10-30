@@ -1,0 +1,26 @@
+Task 2 Model Evaluation Summary
+========================================
+Model: RandomForestClassifier
+  Accuracy: 0.6444
+  Precision (Macro): 0.3336
+  Recall (Macro): 0.3369
+  F1-Score (Macro): 0.2896
+------------------------------
+Model: GradientBoostingClassifier
+  Accuracy: 0.9512
+  Precision (Macro): 0.3173
+  Recall (Macro): 0.3330
+  F1-Score (Macro): 0.3250
+------------------------------
+Model: ExtraTreesClassifier
+  Accuracy: 0.5281
+  Precision (Macro): 0.3315
+  Recall (Macro): 0.3157
+  F1-Score (Macro): 0.2562
+------------------------------
+Model: VotingClassifier
+  Accuracy: 0.6444
+  Precision (Macro): 0.3336
+  Recall (Macro): 0.3369
+  F1-Score (Macro): 0.2896
+------------------------------

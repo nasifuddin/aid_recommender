@@ -1,0 +1,37 @@
+Task 1 Model Evaluation Summary
+========================================
+Model: RandomForestClassifier
+  Accuracy: 0.9829
+  Precision: 0.9886
+  Recall: 0.9915
+  F1-Score: 0.9901
+  ROC-AUC: 0.9802
+------------------------------
+Model: GradientBoostingClassifier
+  Accuracy: 0.9870
+  Precision: 0.9915
+  Recall: 0.9934
+  F1-Score: 0.9924
+  ROC-AUC: 0.9786
+------------------------------
+Model: ExtraTreesClassifier
+  Accuracy: 0.9821
+  Precision: 0.9868
+  Recall: 0.9924
+  F1-Score: 0.9896
+  ROC-AUC: 0.9785
+------------------------------
+Model: LogisticRegression_L1
+  Accuracy: 0.9577
+  Precision: 0.9571
+  Recall: 0.9953
+  F1-Score: 0.9758
+  ROC-AUC: 0.9628
+------------------------------
+Model: VotingClassifier
+  Accuracy: 0.9854
+  Precision: 0.9896
+  Recall: 0.9934
+  F1-Score: 0.9915
+  ROC-AUC: 0.9747
+------------------------------
